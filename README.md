@@ -36,7 +36,7 @@ tienda-tech/
 ## 3. Preparación de variables de entorno
 
 ```bash
-git clone <URL-DEL-REPOSITORIO> tienda-tech
+git clone https://github.com/ginia18/tienda-tech.git tienda-tech
 cd tienda-tech
 cp .env.example .env
 ```
