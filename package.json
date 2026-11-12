@@ -1,0 +1,13 @@
+{
+  "name": "tienda-tech",
+  "version": "1.0.0",
+  "description": "API CRUD de productos de una tienda de tecnologia (Node.js + PostgreSQL + Docker)",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "pg": "^8.13.0"
+  }
+}
